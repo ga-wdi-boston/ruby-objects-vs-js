@@ -139,7 +139,7 @@ directly on the class we want to instantiate (in this case, `Rectangle`).
 > Because there is no such thing as an 'Object Literal' in Ruby,
 > all new objects _must_ be created using `.new`
 
-### Lab
+### Lab : Object Definition and Instantiation
 
 Inside this repo, in the folder `lib`, you'll find a file called `person.rb`.
 In that file define a Ruby class for creating Person objects;
